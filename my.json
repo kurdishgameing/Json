@@ -1,10 +1,10 @@
 {
   "latestVersionCode": 1,
   "latestVersionName": "1.0.0",
-  "updateUrl": "www.google.com",
+  "updateUrl": "https://apkpure.com/eng-dpu/com.eng.bahzat.dpu",
   "kurdishUpdateMessage": "وەشانەکا نوو و بلێزتر یا بەردەستە! نوکە داونلۆد بکە بۆ دیتنا تایبەتمەندیێن نوو یێن ٣دی.",
   "englishUpdateMessage": "A new and faster version is available! Download now to enjoy new 3D features.",
-  "announcementId": "ann_2026_07_19",
+  "announcementId": "ann_2026_07_19_v1",
   "kurdishAnnouncement": "ئەندازیار بەهزاد: بەکارهێنەرێن هێژا، سوپاس بۆ کارکرنێ دگەل ئەپێ مە، سیستەمێ دروستکرنا کارەکتەران یێ ٤-لایەن نوکە کارایە د ئەپ دا!",
   "englishAnnouncement": "Eng Bahzat: Dear users, thank you for using our app, the 4-views Character CAD modeler is now active!",
   "showAnnouncement": true,
