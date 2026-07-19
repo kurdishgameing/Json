@@ -1,8 +1,12 @@
 {
-
- "Name" : "bahzat duhoki",
- "Description" : "New updates are available, we added more cool levels, check it now",
- "Version" : "1.3",
- "Url" : "https://play.google.com/store/apps/dev?id=xxxxxxxxxxxxx"
- 
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1.0",
+  "updateUrl": "https://ais-pre-63wopnyv3ojikqjfspzc64-966608799709.europe-west2.run.app",
+  "kurdishUpdateMessage": "وەشانەکا نوو و بلێزتر یا بەردەستە! نوکە داونلۆد بکە بۆ دیتنا تایبەتمەندیێن نوو یێن ٣دی.",
+  "englishUpdateMessage": "A new and faster version is available! Download now to enjoy new 3D features.",
+  "announcementId": "ann_2026_07_19",
+  "kurdishAnnouncement": "ئەندازیار بەهزاد: بەکارهێنەرێن هێژا، سوپاس بۆ کارکرنێ دگەل ئەپێ مە، سیستەمێ دروستکرنا کارەکتەران یێ ٤-لایەن نوکە کارایە د ئەپ دا!",
+  "englishAnnouncement": "Eng Bahzat: Dear users, thank you for using our app, the 4-views Character CAD modeler is now active!",
+  "showAnnouncement": true,
+  "isCritical": false
 }
